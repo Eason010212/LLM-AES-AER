@@ -1,7 +1,7 @@
 # LLM-AES-AER
 The code repository for "Automated Essay Scoring and Revising Based on Open-Source Large Language Models"
 ## Introduction
-This repository contains the code for the paper "Automated Essay Scoring and Revising Based on Open-Source Large Language Models". The code is based on the [transformers](4.18.0) library and [tensorflow](2.0.0) library.
+This repository contains the code for the paper "Automated Essay Scoring and Revising Based on Open-Source Large Language Models". The code is based on the transformers 4.18.0 library and tensorflow 2.0.0 library.
 ## File Structure
 ### src/baseline-*.ipynb
 The baseline models for AES.
